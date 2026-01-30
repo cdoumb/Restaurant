@@ -11,7 +11,8 @@ Le baobab d'or est un site web one-page conçu pour présenter :
 - et la localisation via Google Maps.
   
  Objectif : proposer une expérience utilisateur agréable tout en valorisant la cuisine sénégalaise.
-
+ 
+Technologies utilisées
 - HTML — structure sémantique du site  
 - CSS — design, animations et responsive design  
 - Goggle map — localisation du restaurant  
